@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://greycloudw.github.io/greycloudw_github_io_zp530_10.txt
+Sitemap: https://greycloudw.github.io/greycloudw_github_io_zp530_15.txt
+Sitemap: https://greycloudw.github.io/greycloudw_github_io_zp530_2.txt
+Sitemap: https://greycloudw.github.io/greycloudw_github_io_zp530_24.txt
+Sitemap: https://greycloudw.github.io/greycloudw_github_io_zp530_6.txt
